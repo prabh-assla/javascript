@@ -1,0 +1,1 @@
+console.log("happy".repeat(8));
